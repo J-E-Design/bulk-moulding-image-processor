@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/bulk-moulding-image-processor/static/js/main.80e771df.js",
+    "main.js": "/bulk-moulding-image-processor/static/js/main.bc851700.js",
     "index.html": "/bulk-moulding-image-processor/index.html",
-    "main.80e771df.js.map": "/bulk-moulding-image-processor/static/js/main.80e771df.js.map"
+    "main.bc851700.js.map": "/bulk-moulding-image-processor/static/js/main.bc851700.js.map"
   },
   "entrypoints": [
-    "static/js/main.80e771df.js"
+    "static/js/main.bc851700.js"
   ]
 }
